@@ -57,3 +57,6 @@
 
 5. 结果导出 (Export)
     所有生成的清洗数据、汇总统计表格（.xlsx / .csv）以及可视化图表（.png）均会自动保存在 output 文件夹中。
+
+## 项目地址
+本项目的 github 仓库存放在：https://github.com/enderkidleaf/PA10_ex_Team01/tree/main/city_finance_analysis
